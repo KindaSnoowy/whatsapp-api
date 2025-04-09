@@ -1,4 +1,4 @@
-API Whatsapp feito usando [Baileys](https://baileys.wiki/docs/intro)
+API do Whatsapp feito usando [Baileys](https://baileys.wiki/docs/intro), se passando como um dispotivo da sua conta para substituir a API paga do WhatsApp.
 
 # Rotas
 
